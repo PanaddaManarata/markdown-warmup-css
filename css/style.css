@@ -21,8 +21,9 @@ font-family: 'Raleway Dots', cursive;
 }
 
 
-#firstsection, #secondsection{
-    padding: 20px; 
+#firstsection,
+#secondsection {
+    padding: 20px;
 }
 
 h1,
@@ -32,9 +33,10 @@ h2 {
 
 h1,
 h2,
-h3 {font-family: 
-    'Raleway Dots', cursive;
-    letter-spacing: 2px;  
+h3 {
+    font-family:
+        'Raleway Dots', cursive;
+    letter-spacing: 2px;
 }
 
 
@@ -44,14 +46,25 @@ form {
 
 
 
-blockquote{width: 450px;
-color: #6a5757; 
+blockquote {
+    width: 450px;
+    color: #6a5757;
+    margin-bottom: 50px;
+    line-height: 30px;
 }
 
-table{text-align: center; 
 
-    margin-left: 15%; 
- }
+ul:last-of-type {
+    margin-bottom: 40px;
+}
+
+
+table {
+    text-align: center;
+
+    margin-left: 15%;
+    margin-bottom: 50px;
+}
 
 table,
 th,
@@ -61,9 +74,30 @@ td {
 }
 
 
-th{background-color: darkgreen; }
+th {
+    background-color: darkgreen;
+}
 
 th,
 td {
     padding: 10px;
 }
+
+
+
+
+pre {
+    margin-left: 25%;
+    margin-bottom: 50px;
+
+}
+
+img {margin-top: 50px; 
+    margin-left: -40px;
+}
+
+#screen{ font-size: 25px;
+text-align: center; }
+
+
+
