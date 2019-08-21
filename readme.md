@@ -1,8 +1,7 @@
 # Markdown warmup with some CSS 
-Assignment for Becode.org: 
-
 Turning Markdown language to HTML and style with CSS 
-- Context: Looking for a good IDE. 
+
+style previous assignment [from markdown to HTML](https://panaddamanarata.github.io/markdown-to-html/)
 
 
 ## Contributing
@@ -13,7 +12,7 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-[style this page](https://panaddamanarata.github.io/markdown-warmup-css/)
+[HTML styled](https://panaddamanarata.github.io/markdown-warmup-css/)
 
 
 
