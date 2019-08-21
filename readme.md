@@ -13,7 +13,7 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-[!style this page](https://panaddamanarata.github.io/markdown-warmup-css/)
+[style this page](https://panaddamanarata.github.io/markdown-warmup-css/)
 
 
 
