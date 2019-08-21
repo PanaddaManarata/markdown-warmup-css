@@ -15,7 +15,7 @@ Please make sure to update tests as appropriate.
 [HTML styled](https://panaddamanarata.github.io/markdown-warmup-css/)
 
 
-
+![screenshot project HTML with some CSS](preview_addcss.PNG)
 
 
 
